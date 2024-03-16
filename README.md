@@ -17,7 +17,8 @@ we can install the dependencies using pip
   ## Usage
   Clone the repository:
   ```bash
-  git clone 
+  git clone https://github.com/priyankav-27/PRODIGY_ML_01
   ```
+  
   
  
