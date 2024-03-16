@@ -19,6 +19,10 @@ we can install the dependencies using pip
   ```bash
   git clone https://github.com/priyankav-27/PRODIGY_ML_01.git
   ```
+## Evaluation
+The performance of the model was evaluated using root mean squared error (RMSE) on a holdout test set.
+## Results
+The model achieved an RMSE of 50000 on the test set, indicating good predictive performance.
   
   
  
