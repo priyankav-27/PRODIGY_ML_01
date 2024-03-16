@@ -9,7 +9,7 @@ The dataset used for training the model is the Housing Prices dataset from Kaggl
 - scikit-learn
 - pandas
 - numpy
-  2. Install dependencies:
+## Install dependencies:
 we can install the dependencies using pip
   ```bash
   pip install numpy pandas scikit-learn matplotlib seaborn
