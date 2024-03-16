@@ -14,7 +14,7 @@ we can install the dependencies using pip
   ```bash
   pip install numpy pandas scikit-learn matplotlib seaborn
   ```
-  ## Usage
+## Usage
   Clone the repository:
   ```bash
   git clone https://github.com/priyankav-27/PRODIGY_ML_01.git
