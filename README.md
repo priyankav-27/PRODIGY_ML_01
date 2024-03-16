@@ -19,6 +19,10 @@ we can install the dependencies using pip
   ```bash
   git clone https://github.com/priyankav-27/PRODIGY_ML_01.git
   ```
+1. Open the `house price prediction.ipynb` notebook in Jupyter or any compatible notebook environment.
+2. Run the cells in the notebook sequentially to load the dataset, preprocess the data, train the model, and evaluate its performance.
+3. Alternatively, you can run the notebook cell by cell, or modify the code to suit your specific needs.
+4. After training the model, you can use it to make predictions on new data by modifying the input features and running the prediction code.
 ## Evaluation
 The performance of the model was evaluated using root mean squared error (RMSE) on a holdout test set.
 ## Results
